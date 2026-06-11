@@ -9,15 +9,6 @@ Interests: Distributed Systems, Backend Development, Agentic AI, RAG, System Des
 
 ---
 
-## 📈 Current Focus
-- Distributed systems and scalable architecture
-- Event‑driven architectures (Kafka)
-- PostgreSQL performance & query tuning
-- Agentic AI systems, RAG pipelines, and vector search
-- Developer tooling and platform productivity
-
----
-
 ## 🛠 Skills
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
