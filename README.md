@@ -38,4 +38,4 @@ Interests: Distributed Systems, Backend Development, Agentic AI, RAG, System Des
 
 ---
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/kunal768/kunal768/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sarthakkathuria/sarthakkathuria/blob/output/github-contribution-grid-snake.svg)
